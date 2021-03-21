@@ -1,10 +1,10 @@
-# Working with macOS Catalina and macOS Big Sur!
+# Working well with macOS Catalina and Big Sur!
 
 ## Introduction
-A clean [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) config created using [official documentation](https://dortania.github.io/docs/).
+A clean [OpenCore](https://dortania.github.io/OpenCore-Install-Guide) config.
 
 ## Hardware
-Make sure you are using the same processor and motherboard.  The rest is not so important!
+Make sure you are using the same CPU and motherboard.
 
 | Component | Model |
 | ------ | ------ |
@@ -16,8 +16,9 @@ Make sure you are using the same processor and motherboard.  The rest is not so 
 | Wifi & Bluetooth | [Fenvi FV–T919 (BCM94360CD)](https://aliexpress.ru/item/32778371977.html?&sku_id=12000018003239936) |
 
 ## Important
-Don't forget to regenerate SMBIOS data!
+Don't forget to regenerate your SMBIOS data!
 
 ## Identified problems
-No problem has been identified. Everything works as expected.
-You are free to create issues if you have questions or find a problem.
+No problem was identified. Everything works as expected.
+
+Fell free to [create issues](https://github.com/RusKryzhanovskiy/Hackintosh-Gigabyte-B365M-DS3H/issues/new) if you have questions or find some problem.
