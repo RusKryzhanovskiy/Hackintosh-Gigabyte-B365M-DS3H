@@ -1,8 +1,5 @@
 # Working well with macOS Catalina and Big Sur!
 
-## Introduction
-A clean [OpenCore](https://dortania.github.io/OpenCore-Install-Guide) config.
-
 ## Hardware
 Make sure you are using the same CPU and motherboard.
 
